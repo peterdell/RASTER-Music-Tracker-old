@@ -1,6 +1,4 @@
-Debug/
-Release/
-Release64/
+out/
 .vs
 *.ncb
 *.aps
