@@ -1,3 +1,12 @@
+### This repository is archived.
+
+Please use https://github.com/raster-atari-org/RASTER-Music-Tracker instead.
+The original personal repository at https://github.com/VinsCool/RASTER-Music-Tracker and this repository are is only kept to retain the change history before 2025.
+The "VinsCool/RASTER-Music-Tracker/main" branch is broken.
+The "lng" branch is the last-know-good state before the "main" branch broken.
+The "dev" branch is the cleaned-up version of the "lng" branch".
+It it continued in the "stable" branch of https://github.com/raster-atari-org/RASTER-Music-Tracker.
+
 ************************************************************************
 RASTER MUSIC TRACKER - RMT\
 By Radek Štěrba, Raster/C.P.U., 2002-2009\
@@ -121,3 +130,4 @@ All the active "Atariarea" Polish Atarians (http://atariarea.krap.pl)<br>
 ...and other 8bit Atarians all over the world! :-)
 
 TODO: Update README.md to reflect all the changes done since version 1.28
+
